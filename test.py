@@ -3,4 +3,5 @@ def example():
 def cats():
   name = input("What should I name my cat?")
   print(name + " is a great name")
-  
+example()
+cats()
